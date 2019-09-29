@@ -9,8 +9,7 @@ Pre-flight weather is critical. Go/No-Go gives you all the weather information y
 ## Installing
 
 * Clone this repository
-* Run npm init -y
-* Run npm install
+* 
 
 ## Built With
 
@@ -22,7 +21,7 @@ Pre-flight weather is critical. Go/No-Go gives you all the weather information y
 
 ## Instructions
 
-* Clone this repository at https://github.com/lmasullo/clicky
+* Clone this repository at https://github.com/lmasullo/go-nogo
 * Run npm install in the terminal
 * Run NPM start
 * Open your browser to localhost:3000
@@ -35,7 +34,7 @@ Pre-flight weather is critical. Go/No-Go gives you all the weather information y
 * The goal is to click on each image just once. As you click on an image your score will increment as long as you haven't clicked on it before. Try to get all 12! If you click on an image a second time, the images will shake, and the game will restart.
 
 ## GitHub Repo
-https://github.com/lmasullo/clicky
+https://github.com/lmasullo/go-nogo
 
 ## Versioning
 
@@ -44,7 +43,11 @@ Current version is 1.0
 
 ## Authors
 
-**Larry Masullo (sole author)**
+**Larry Masullo**
+**Somni**
+**Rafael**
+**Thomas**
+
 
 ## Portfolio
 https://www.masullodev.com
