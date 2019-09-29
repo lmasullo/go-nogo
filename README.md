@@ -29,29 +29,6 @@ Pre-flight weather is critical. Go/No-Go gives you all the weather information y
 - Choose your Departure and Destination airports and click "Let's Go" and you will be presented with the current weeather for both airports.
 
 ## GitHub Repo
-
-* Clone this repository and open the index.html file in your browser of choice, that's it!
-
-## Built With
-
-* HTML
-* CSS
-* Javascript
-* jQuery
-* Materialize
-
-## Instructions
-
-* Clone this repository at https://github.com/lmasullo/go-nogo
-* Open index.html in your browser
-* Alternately go to https://lmasullo.github.io/go-nogo/
-
-
-![alt text](assets/images/gonogo.png "Home Page")
-
-* Choose your Departure and Destination airports and click "Let's Go" and you will be presented with the current weeather for both airports.
-
-## GitHub Repo
 https://github.com/lmasullo/go-nogo
 
 ## Versioning
